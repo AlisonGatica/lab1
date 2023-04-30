@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/fzBMri+6pbqt7DKzyGua0ZlA7RLJJiIKMvaiKF3phjQP4QvkbOcT6CAu9PXoewYug+Bdyb7aZwrY1GvgQ/1eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alison Gatica Rivera\\Documents\\A.G\\UNIVERSIDAD\\ESTRCTURA DE DATOS 1\\ejemplojson\\ejemplojson\\ejemplojson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alison Gatica Rivera\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Alison Gatica Rivera\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Alison Gatica Rivera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Alison Gatica Rivera\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Alison Gatica Rivera\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Alison Gatica Rivera\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

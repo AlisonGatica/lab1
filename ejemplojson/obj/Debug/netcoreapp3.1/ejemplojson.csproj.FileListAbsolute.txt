@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\bin\Debug\netcoreapp3.1\ejemplojson.exe
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\bin\Debug\netcoreapp3.1\ejemplojson.deps.json
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\bin\Debug\netcoreapp3.1\ejemplojson.runtimeconfig.json
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\bin\Debug\netcoreapp3.1\ejemplojson.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\bin\Debug\netcoreapp3.1\ejemplojson.dll
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\bin\Debug\netcoreapp3.1\ejemplojson.pdb
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\obj\Debug\netcoreapp3.1\ejemplojson.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\obj\Debug\netcoreapp3.1\ejemplojson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\obj\Debug\netcoreapp3.1\ejemplojson.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\obj\Debug\netcoreapp3.1\ejemplojson.AssemblyInfo.cs
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\obj\Debug\netcoreapp3.1\ejemplojson.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\obj\Debug\netcoreapp3.1\ejemplojson.dll
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\obj\Debug\netcoreapp3.1\ejemplojson.pdb
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\obj\Debug\netcoreapp3.1\ejemplojson.genruntimeconfig.cache
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\usuario\source\repos\ejemplojson\ejemplojson\obj\Debug\netcoreapp3.1\ejemplojson.csproj.CopyComplete
